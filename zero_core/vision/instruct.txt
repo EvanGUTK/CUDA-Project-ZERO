@@ -1,0 +1,5 @@
+preprocess.py: resize/letterbox/normalize on CUDA
+postprocess.py: NMS, scaling boxes, class mapping
+yolo_ultralytics.py: PyTorch/Ultralytics inference (GPU)
+yolo_onnx.py: ONNXRuntime CUDA path
+yolo_trt.py: TensorRT engines (desktop & Jetson)
