@@ -1,0 +1,3 @@
+schema.py: message schema (Pydantic/dataclasses)
+server.py: WebSocket/ZeroMQ publisher (detections, poses)
+client.py: subscriber (Quest app, dashboards)
