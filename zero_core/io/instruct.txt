@@ -1,0 +1,4 @@
+camera.py: webcam, multi-cam UVC, GStreamer
+screen.py: dxcam/mss screen capture backend
+recorder.py: MP4/MKV recording with timestamps
+repllayer.py: video file reader with seek
