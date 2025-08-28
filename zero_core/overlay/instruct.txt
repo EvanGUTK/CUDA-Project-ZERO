@@ -1,0 +1,3 @@
+hud.py: FPS, mode, status banners
+draw.py: boxes, labels, trails
+compose.py: side-by-side, PiP, alpha blends
