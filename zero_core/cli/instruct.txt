@@ -1,0 +1,5 @@
+mirror.py: desktop + cam mirror (your PiP/side-by-side tool)
+detect_cam.py: YOLO on webcam
+detect_screen.py: YOLO on desktop capture
+detect_fusion.py: combine streams + detections + overlay
+benchmark.py: single-command latency/throughput bench
