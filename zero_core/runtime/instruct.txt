@@ -1,1 +1,4 @@
-
+Device.py: cuda/cpu selection, memory checks, streams
+timing.py: fps meters, profilers
+logging.py: rich/tqdm style logs
+telemetry.py: optional Prometheus/OTLP hooks
