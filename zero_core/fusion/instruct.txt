@@ -1,0 +1,3 @@
+tracker.py: ByteTrack/OC-SORT hooks (optional)
+sync.py: time sync multi-stream
+sensors.py: scaffold for ultrasonic/radar/lidar feeds
